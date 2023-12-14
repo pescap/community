@@ -1,4 +1,4 @@
-# Unify RNN Inteface
+# Unify RNN Interface
 
 | Status        | Accepted                                             |
 | ------------- |:---------------------------------------------------- |
